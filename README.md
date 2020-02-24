@@ -1,11 +1,11 @@
-# strapi-provider-upload-qiniu
+# strapi-provider-upload-qiniu-server
 
 ## Usage
 
 ### Install
 
 ```
-npm install strapi-provider-upload-qiniu --save
+npm install strapi-provider-upload-qiniu-server --save
 ```
 
 ### Input Config Parameter
