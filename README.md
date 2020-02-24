@@ -26,8 +26,8 @@ open the `custom.json` file in your project root path(/config/custom.json),input
 }
 ```
 
-accessKey,secretKey,bucket which get from your Qiniu web console platform.
-qiniuPrefixPath : add the prefix to the filename , result is qiniuPrefixPath + filename
+accessKey,secretKey,bucket which get from your Qiniu web console platform.  
+qiniuPrefixPath : add the prefix to the filename , result is qiniuPrefixPath + filename  
 Example: north/site/+ test.png ==> north/site/test.png  
 selfServerUrl: your self server url which you has configurate in Qiniu .
 
