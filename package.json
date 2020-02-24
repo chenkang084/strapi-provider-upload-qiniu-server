@@ -1,0 +1,47 @@
+{
+  "name": "strapi-provider-upload-qiniu",
+  "version": "1.0.0",
+  "description": "qiniu provider for strapi upload",
+  "homepage": "https://github.com/chenkang084/strapi-provider-upload-qiniu",
+  "keywords": [
+    "upload",
+    "strapi"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "qiniu": "^7.2.2"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "chenkang084@163.com",
+    "name": "self team",
+    "url": "https://github.com/chenkang084"
+  },
+  "maintainers": [
+    {
+      "email": "chenkang084@163.com",
+      "name": "self team",
+      "url": "https://github.com/chenkang084"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chenkang084/strapi-provider-upload-qiniu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  }
+}
