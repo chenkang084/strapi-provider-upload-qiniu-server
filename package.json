@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-qiniu",
+  "name": "strapi-provider-upload-qiniu-server",
   "version": "1.0.0",
   "description": "qiniu provider for strapi upload",
   "homepage": "https://github.com/chenkang084/strapi-provider-upload-qiniu",
