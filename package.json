@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-qiniu-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "qiniu provider for strapi upload",
   "homepage": "https://github.com/chenkang084/strapi-provider-upload-qiniu",
   "keywords": [
